@@ -12,3 +12,6 @@ la base de données utilisée.
 ![image](https://github.com/user-attachments/assets/51ed892d-eaf8-45b4-b247-f7106d4295ed)
 # langage :
 ![JEE](https://img.shields.io/badge/JEE-007396?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
